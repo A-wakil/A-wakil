@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abdulwakil
-- 👀 I’m interested in software development
 - 🌱 I’m currently studying computer science at Huston-Tillotson University
-- 💞️ I’m looking to collaborate on creating a voice automated chess game
+- 💞️ Striving to add value through technology
 - 📫 You can reach me at aabdulkadir@htu.edu or abdulwakil.ola@gmail.com
 
 <!---
